@@ -1,3 +1,4 @@
+from setuptools import setup, find_packages
 setup(
     name='nlltk',                      # ← new package name
     version='1.0.2',
